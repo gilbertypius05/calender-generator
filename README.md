@@ -1,2 +1,2 @@
  
-A c++ program for generating a calender
+A C++ program for generating a calender
